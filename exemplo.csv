@@ -1,0 +1,5 @@
+nome, quantidade, preco, disponibilidade
+Computador, 1, 1000, True
+Mouse, 2, 50, True
+Teclado, 3, 100, True
+Monitor, 4, 200, True
